@@ -1,0 +1,9 @@
+C:\code\TimeSeriesAccumulator\TimeSeriesAccumulator\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\code\TimeSeriesAccumulator\TimeSeriesAccumulator\bin\Debug\netcoreapp3.1\appsettings.json
+C:\code\TimeSeriesAccumulator\TimeSeriesAccumulator\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\code\TimeSeriesAccumulator\TimeSeriesAccumulator\obj\Debug\netcoreapp3.1\TimeSeriesAccumulator.csprojAssemblyReference.cache
+C:\code\TimeSeriesAccumulator\TimeSeriesAccumulator\obj\Debug\netcoreapp3.1\TimeSeriesAccumulator.AssemblyInfoInputs.cache
+C:\code\TimeSeriesAccumulator\TimeSeriesAccumulator\obj\Debug\netcoreapp3.1\TimeSeriesAccumulator.AssemblyInfo.cs
+C:\code\TimeSeriesAccumulator\TimeSeriesAccumulator\obj\Debug\netcoreapp3.1\TimeSeriesAccumulator.RazorTargetAssemblyInfo.cache
+C:\code\TimeSeriesAccumulator\TimeSeriesAccumulator\obj\Debug\netcoreapp3.1\staticwebassets\TimeSeriesAccumulator.StaticWebAssets.Manifest.cache
+C:\code\TimeSeriesAccumulator\TimeSeriesAccumulator\obj\Debug\netcoreapp3.1\staticwebassets\TimeSeriesAccumulator.StaticWebAssets.xml
